@@ -1,2 +1,2 @@
 # HealthX
-Smart Watch for health fitness.
+Smart Watch for health and fitness.
